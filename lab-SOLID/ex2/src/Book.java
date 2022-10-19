@@ -35,11 +35,4 @@ public class Book {
             return false;
         }
     }
-
-
-    public void print(Printer printer) {
-        printer.print(this);
-    }
-
-
 }
